@@ -2,7 +2,7 @@ package main
 
 // import "fmt"
 
-func main() {
+// func main() {
 // 	fmt.Println("Hello World")
 
 // 	var data int
@@ -12,16 +12,14 @@ func main() {
 // 	fmt.Println(data2)
 
 // 	// Primetive
-	// var data3 uint
-	// data3 = 1000000
-	// fmt.Println(data3)
-	// No premetive
-	//struct, map, chan, interface
+// var data3 uint
+// data3 = 1000000
+// fmt.Println(data3)
+// No premetive
+//struct, map, chan, interface
 
+// name := "rahul"
+// name2 := `kamal`
+// fmt.Println(name, name2)
 
-	// name := "rahul"
-	// name2 := `kamal`
-	// fmt.Println(name, name2)
-
-	Xyz()
-}
+// 	Xyz()s
